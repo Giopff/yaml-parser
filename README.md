@@ -1,6 +1,9 @@
 # yaml-parser
 light-weight yaml parser in cpp
 
+
+test example
+
 ```bash 
-g++ test.cc yaml-parse.cc
+g++ test.cc ../lib/yaml-parser.cc
 ```
